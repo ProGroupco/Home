@@ -1,4 +1,9 @@
 Pro Group.co
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=600&lines=Welcome+to+ProGroupco;Building+Clean+and+Modern+Projects;Open+Source+%7C+Learning+%7C+Innovation" alt="Typing SVG" />
+</p>
+
+# 🚀 ProGroupco – Home
 
 # 💫 About Me:
 Pro Group , it is my company, also I am working at <br>A website, OReboot, it is my own OS , My name is <br>Aditya Kumar Sethi and I am a developer related to <br>Games, specially Minecraft, tech and softwares also
