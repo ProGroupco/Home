@@ -1,3 +1,42 @@
+ <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=34&pause=1000&center=true&vCenter=true&width=900&lines=PROGROUPCO;Building+Across+All+Languages;Code+%7C+Create+%7C+Grow" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/stars/ProGroupco/Home?style=social" />
+  <img src="https://img.shields.io/github/forks/ProGroupco/Home?style=social" />
+  <img src="https://img.shields.io/github/issues/ProGroupco/Home" />
+  <img src="https://img.shields.io/github/license/ProGroupco/Home" />
+</p>
+
+---
+
+## 🚀 ProGroupco – Home
+
+Welcome to **ProGroupco Home** 👋  
+This repository is the **central hub** for experiments, learning, and projects across **many programming languages**.
+
+> Not limited to one stack.  
+> We build with **whatever the idea needs**.
+
+---
+
+## 🧪 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,python,java,c,cs,cpp,nodejs,react,git,github,linux&perline=7" />
+</p>
+
+---
+
+## 🧠 Developer XP System 🎮
+
+**Player:** ProGroupco  
+**Class:** Multi-Language Architect  
+
+```text
+████████████████████░░░░░░  78% → NEXT LEVEL
+
 Pro Group.co
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=600&lines=Welcome+to+ProGroupco;Building+Clean+and+Modern+Projects;Open+Source+%7C+Learning+%7C+Innovation" alt="Typing SVG" />
