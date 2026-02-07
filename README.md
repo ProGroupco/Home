@@ -887,3 +887,6 @@ This project is powered by ProGroup and the open-source ecosystem.
 | Layer | Language | Badge |
 | :--- | :--- | :--- |
 | **Database / Cloud** | **SQL (SQLite)** | ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=sqlite&logoColor=white) |
+| Layer | Language | Badge |
+| :--- | :--- | :--- |
+| **Automation & DevOps** | **Ruby** | ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white) |
