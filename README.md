@@ -884,3 +884,6 @@ This project is powered by ProGroup and the open-source ecosystem.
 
 👉 **View full credits here:**  
 📄 [CREDITS.md](CREDITS.md)
+| Layer | Language | Badge |
+| :--- | :--- | :--- |
+| **Database / Cloud** | **SQL (SQLite)** | ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=sqlite&logoColor=white) |
