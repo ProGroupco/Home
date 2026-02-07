@@ -1,65 +1,71 @@
-# Gemini CLI
+# Get started with Gemini CLI
 
-Within Gemini CLI, `packages/cli` is the frontend for users to send and receive
-prompts with the Gemini AI model and its associated tools. For a general
-overview of Gemini CLI, see the [main documentation page](../index.md).
+Welcome to Gemini CLI! This guide will help you install, configure, and start
+using the Gemini CLI to enhance your workflow right from your terminal.
 
-## Basic features
+## Quickstart: Install, authenticate, configure, and use Gemini CLI
 
-- **[Commands](./commands.md):** A reference for all built-in slash commands
-- **[Custom commands](./custom-commands.md):** Create your own commands and
-  shortcuts for frequently used prompts.
-- **[Headless mode](./headless.md):** Use Gemini CLI programmatically for
-  scripting and automation.
-- **[Model selection](./model.md):** Configure the Gemini AI model used by the
-  CLI.
-- **[Settings](./settings.md):** Configure various aspects of the CLI's behavior
-  and appearance.
-- **[Themes](./themes.md):** Customizing the CLI's appearance with different
-  themes.
-- **[Keyboard shortcuts](./keyboard-shortcuts.md):** A reference for all
-  keyboard shortcuts to improve your workflow.
-- **[Tutorials](./tutorials.md):** Step-by-step guides for common tasks.
+Gemini CLI brings the power of advanced language models directly to your command
+line interface. As an AI-powered assistant, Gemini CLI can help you with a
+variety of tasks, from understanding and generating code to reviewing and
+editing documents.
 
-## Advanced features
+## Install
 
-- **[Checkpointing](./checkpointing.md):** Automatically save and restore
-  snapshots of your session and files.
-- **[Enterprise configuration](./enterprise.md):** Deploy and manage Gemini CLI
-  in an enterprise environment.
-- **[Sandboxing](./sandbox.md):** Isolate tool execution in a secure,
-  containerized environment.
-- **[Agent Skills](./skills.md):** Extend the CLI with specialized expertise and
-  procedural workflows.
-- **[Telemetry](./telemetry.md):** Configure observability to monitor usage and
-  performance.
-- **[Token caching](./token-caching.md):** Optimize API costs by caching tokens.
-- **[Trusted folders](./trusted-folders.md):** A security feature to control
-  which projects can use the full capabilities of the CLI.
-- **[Ignoring files (.geminiignore)](./gemini-ignore.md):** Exclude specific
-  files and directories from being accessed by tools.
-- **[Context files (GEMINI.md)](./gemini-md.md):** Provide persistent,
-  hierarchical context to the model.
-- **[System prompt override](./system-prompt.md):** Replace the built‑in system
-  instructions using `GEMINI_SYSTEM_MD`.
-
-## Non-interactive mode
-
-Gemini CLI can be run in a non-interactive mode, which is useful for scripting
-and automation. In this mode, you pipe input to the CLI, it executes the
-command, and then it exits.
-
-The following example pipes a command to Gemini CLI from your terminal:
+The standard method to install and run Gemini CLI uses `npm`:
 
 ```bash
-echo "What is fine tuning?" | gemini
+npm install -g @google/gemini-cli
 ```
 
-You can also use the `--prompt` or `-p` flag:
+Once Gemini CLI is installed, run Gemini CLI from your command line:
 
 ```bash
-gemini -p "What is fine tuning?"
+gemini
 ```
 
-For comprehensive documentation on headless usage, scripting, automation, and
-advanced examples, see the **[Headless mode](./headless.md)** guide.
+For more installation options, see [Gemini CLI Installation](./installation.md).
+
+## Authenticate
+
+To begin using Gemini CLI, you must authenticate with a Google service. In most
+cases, you can log in with your existing Google account:
+
+1. Run Gemini CLI after installation:
+
+   ```bash
+   gemini
+   ```
+
+2. When asked "How would you like to authenticate for this project?" select **1.
+   Login with Google**.
+
+3. Select your Google account.
+
+4. Click on **Sign in**.
+
+Certain account types may require you to configure a Google Cloud project. For
+more information, including other authentication methods, see
+[Gemini CLI Authentication Setup](./authentication.md).
+
+## Configure
+
+Gemini CLI offers several ways to configure its behavior, including environment
+variables, command-line arguments, and settings files.
+
+To explore your configuration options, see
+[Gemini CLI Configuration](./configuration.md).
+
+## Use
+
+Once installed and authenticated, you can start using Gemini CLI by issuing
+commands and prompts in your terminal. Ask it to generate code, explain files,
+and more.
+
+To explore the power of Gemini CLI, see [Gemini CLI examples](./examples.md).
+
+## What's next?
+
+- Find out more about [Gemini CLI's tools](../tools/index.md).
+- Review [Gemini CLI's commands](../cli/commands.md).
+- Learn how to [get started with Gemini 3](./gemini-3.md).
