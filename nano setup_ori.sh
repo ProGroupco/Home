@@ -26,3 +26,5 @@ mkdir -p system apps cloud store
 echo "✅ Setup Complete! All languages are ready."
 echo "Type 'nasm -v' or 'python --version' to check."
 
+echo "☕ Installing Java (The Enterprise Engine)..."
+pkg install openjdk-17 -y
