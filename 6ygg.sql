@@ -1,0 +1,39 @@
+-- SQL Manual Insert Code Segment
+-- ଏହି ଧାଡ଼ିଗୁଡ଼ିକୁ କପି କରି ବାରମ୍ବାର ପେଷ୍ଟ କରନ୍ତୁ
+
+INSERT INTO alphabet_table (line_text) VALUES ('Line 1: abcdefghijklmnopqrstuvwxyz');
+INSERT INTO alphabet_table (line_text) VALUES ('Line 2: abcdefghijklmnopqrstuvwxyz');
+INSERT INTO alphabet_table (line_text) VALUES ('Line 3: abcdefghijklmnopqrstuvwxyz');
+INSERT INTO alphabet_table (line_text) VALUES ('Line 4: abcdefghijklmnopqrstuvwxyz');
+INSERT INTO alphabet_table (line_text) VALUES ('Line 5: abcdefghijklmnopqrstuvwxyz');
+INSERT INTO alphabet_table (line_text) VALUES ('Line 6: abcdefghijklmnopqrstuvwxyz');
+INSERT INTO alphabet_table (line_text) VALUES ('Line 7: abcdefghijklmnopqrstuvwxyz');
+INSERT INTO alphabet_table (line_text) VALUES ('Line 8: abcdefghijklmnopqrstuvwxyz');
+INSERT INTO alphabet_table (line_text) VALUES ('Line 9: abcdefghijklmnopqrstuvwxyz');
+INSERT INTO alphabet_table (line_text) VALUES ('Line 10: abcdefghijklmnopqrstuvwxyz');
+INSERT INTO alphabet_table (line_text) VALUES ('Line 11: abcdefghijklmnopqrstuvwxyz');
+INSERT INTO alphabet_table (line_text) VALUES ('Line 12: abcdefghijklmnopqrstuvwxyz');
+INSERT INTO alphabet_table (line_text) VALUES ('Line 13: abcdefghijklmnopqrstuvwxyz');
+INSERT INTO alphabet_table (line_text) VALUES ('Line 14: abcdefghijklmnopqrstuvwxyz');
+INSERT INTO alphabet_table (line_text) VALUES ('Line 15: abcdefghijklmnopqrstuvwxyz');
+INSERT INTO alphabet_table (line_text) VALUES ('Line 16: abcdefghijklmnopqrstuvwxyz');
+INSERT INTO alphabet_table (line_text) VALUES ('Line 17: abcdefghijklmnopqrstuvwxyz');
+INSERT INTO alphabet_table (line_text) VALUES ('Line 18: abcdefghijklmnopqrstuvwxyz');
+INSERT INTO alphabet_table (line_text) VALUES ('Line 19: abcdefghijklmnopqrstuvwxyz');
+INSERT INTO alphabet_table (line_text) VALUES ('Line 20: abcdefghijklmnopqrstuvwxyz');
+INSERT INTO alphabet_table (line_text) VALUES ('Line 21: abcdefghijklmnopqrstuvwxyz');
+INSERT INTO alphabet_table (line_text) VALUES ('Line 22: abcdefghijklmnopqrstuvwxyz');
+INSERT INTO alphabet_table (line_text) VALUES ('Line 23: abcdefghijklmnopqrstuvwxyz');
+INSERT INTO alphabet_table (line_text) VALUES ('Line 24: abcdefghijklmnopqrstuvwxyz');
+INSERT INTO alphabet_table (line_text) VALUES ('Line 25: abcdefghijklmnopqrstuvwxyz');
+INSERT INTO alphabet_table (line_text) VALUES ('Line 26: abcdefghijklmnopqrstuvwxyz');
+INSERT INTO alphabet_table (line_text) VALUES ('Line 27: abcdefghijklmnopqrstuvwxyz');
+INSERT INTO alphabet_table (line_text) VALUES ('Line 28: abcdefghijklmnopqrstuvwxyz');
+INSERT INTO alphabet_table (line_text) VALUES ('Line 29: abcdefghijklmnopqrstuvwxyz');
+INSERT INTO alphabet_table (line_text) VALUES ('Line 30: abcdefghijklmnopqrstuvwxyz');
+INSERT INTO alphabet_table (line_text) VALUES ('Line 31: abcdefghijklmnopqrstuvwxyz');
+INSERT INTO alphabet_table (line_text) VALUES ('Line 32: abcdefghijklmnopqrstuvwxyz');
+INSERT INTO alphabet_table (line_text) VALUES ('Line 33: abcdefghijklmnopqrstuvwxyz');
+INSERT INTO alphabet_table (line_text) VALUES ('Line 34: abcdefghijklmnopqrstuvwxyz');
+INSERT INTO alphabet_table (line_text) VALUES ('Line 35: abcdefghijklmnopqrstuvwxyz');
+-- ... ଏହିପରି ଭାବରେ ଆପଣ Ctrl+V ଦବାଇ ୨୦୦୦ ଧାଡ଼ି ପର୍ଯ୍ୟନ୍ତ ନେଇପାରିବେ ...
