@@ -101,8 +101,10 @@ Maintainers may request revisions before merging.
 </p> <a  href="https://github.com/girls">
     <img src="https://github.com/girls.png" width="50" />
   </a>
+</p><a  href="https://github.com/cute">
+    <img src="https://github.com/cute.png" width="50" />
+  </a>
 </p>
-
 ---
 
 Thank you for contributing to ProGroup.
